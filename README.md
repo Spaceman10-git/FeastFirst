@@ -1,4 +1,4 @@
-# FeastQR:  Online Menu System 🌐
+# FeastFirst:  Online Menu System 🌐
 
 
 ## Overview 📖
