@@ -1,9 +1,9 @@
-# FeastQR: Open Source SaaS Online Menu System 🌐
+# FeastQR:  Online Menu System 🌐
 
 
 ## Overview 📖
 
-FeastQR is a cutting-edge, open-source SaaS online menu system for restaurants.
+Feast is a cutting-edge, online menu system for restaurants.
 
 ## Key Features 🔑
 
@@ -21,16 +21,4 @@ FeastQR is a cutting-edge, open-source SaaS online menu system for restaurants.
 - **Deployment**: Edge Ready with Vercel Edge
 - **Analytics**: Umami
 - **Internalization**: i18next
-
-
-## What's next? How do I start this? 🚀
-
-- Clone this project
-- Run
-
-```
-pnpm install
-```
-
-- Copy the .env.example into .env and fill out the envs
 
